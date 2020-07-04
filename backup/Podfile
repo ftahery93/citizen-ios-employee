@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for PlaygroundTest
+pod "SwiftSpinner"
+pod 'EMAlertController'
+pod 'Toast-Swift', '~> 5.0.0'
+pod 'TextFieldEffects'
+pod 'Localize-Swift'
+pod 'Kingfisher', '~> 5.0'
+pod 'IQKeyboardManagerSwift'
+pod 'ImageSlideshow', '~> 1.6'
+pod "ImageSlideshow/SDWebImage"
+pod "ImageSlideshow/Kingfisher"
+pod 'DropDown'
+pod 'TLFloatLabelTextField'
+pod 'SwiftLocation', '~> 4.0'
+pod 'SVProgressHUD'
+pod 'Alamofire'
+pod 'SideMenu'
+pod 'YPImagePicker'
+pod 'OpalImagePicker'
+pod 'TTTAttributedLabel'
+pod 'BEMCheckBox'
+
+target 'PlaygroundTest'
+
+

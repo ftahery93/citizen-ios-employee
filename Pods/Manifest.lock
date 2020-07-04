@@ -1,0 +1,147 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.4.2)
+  - Alamofire (5.0.2)
+  - BEMCheckBox (1.4.1)
+  - Cache (5.3.0)
+  - Cosmos (20.0.1)
+  - EMAlertController (1.0.2)
+  - GoogleMaps (3.8.0):
+    - GoogleMaps/Maps (= 3.8.0)
+  - GoogleMaps/Base (3.8.0)
+  - GoogleMaps/Maps (3.8.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.8.0):
+    - GoogleMaps/Base (= 3.8.0)
+  - GrowingTextView (0.7.2)
+  - ImageSlideshow (1.8.3):
+    - ImageSlideshow/Core (= 1.8.3)
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/Kingfisher (1.8.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - ImageSlideshow/SDWebImage (1.8.3):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - Imaginary (4.3.1):
+    - Cache (~> 5.3.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - Lightbox (2.4.1):
+    - Imaginary (~> 4.3.1)
+  - Localize-Swift (3.1.0)
+  - PryntTrimmerView (4.0.0)
+  - RLBAlertsPickers (1.1.2)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SkyFloatingLabelTextField (3.8.0)
+  - SROTPView (1.0.0)
+  - SteviaLayout (4.7.3)
+  - SVProgressHUD (2.2.5)
+  - SwiftLint (0.39.1)
+  - SwiftLocation (4.2.0)
+  - TextAttributes (2.0.2)
+  - TextFieldEffects (1.6.0)
+  - Toast-Swift (5.0.1)
+  - "UITextView+Placeholder (1.4.0)"
+  - YPImagePicker (4.2.0):
+    - PryntTrimmerView (~> 4.0.0)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - BEMCheckBox
+  - Cosmos (~> 20.0)
+  - EMAlertController
+  - GoogleMaps
+  - GooglePlaces
+  - GrowingTextView (= 0.7.2)
+  - ImageSlideshow (~> 1.6)
+  - ImageSlideshow/Kingfisher
+  - ImageSlideshow/SDWebImage
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 5.0)
+  - Lightbox
+  - Localize-Swift
+  - RLBAlertsPickers (~> 1.1.1)
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SROTPView
+  - SteviaLayout
+  - SVProgressHUD
+  - SwiftLint
+  - SwiftLocation (~> 4.0)
+  - TextAttributes
+  - TextFieldEffects
+  - Toast-Swift (~> 5.0.0)
+  - "UITextView+Placeholder"
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - BEMCheckBox
+    - Cache
+    - Cosmos
+    - EMAlertController
+    - GoogleMaps
+    - GooglePlaces
+    - GrowingTextView
+    - ImageSlideshow
+    - Imaginary
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Lightbox
+    - Localize-Swift
+    - PryntTrimmerView
+    - RLBAlertsPickers
+    - SDWebImage
+    - SkyFloatingLabelTextField
+    - SROTPView
+    - SteviaLayout
+    - SVProgressHUD
+    - SwiftLint
+    - SwiftLocation
+    - TextAttributes
+    - TextFieldEffects
+    - Toast-Swift
+    - "UITextView+Placeholder"
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 5b62e07b00bd970509cf5ece99cb7447eae5dd0d
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  Cache: 48762993ec44e1d93483c4d4a13edd18452326f4
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  EMAlertController: 471e4630309e5ae843ef71f502d6b58525b22c60
+  GoogleMaps: 7c8d66d70e4e8c300f43a7219d8fdaad7b325a9a
+  GooglePlaces: d5f70c3e9e427964fdeca1301a665d276ccd8754
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  Imaginary: 18c5bba364229eef383b925199db442e71d175e1
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  Lightbox: cede4a64f2d864da1f7e7959aa78a8659a311e7c
+  Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
+  PryntTrimmerView: 67e67573ffd4c073f1308effa66aefd0cfa667a0
+  RLBAlertsPickers: 2548943b0cb16620904cbd926a645362d1b43963
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  SROTPView: a6715e8377a8acff39830eb958394a9b9f8d4f70
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftLint: 55e96a4a4d537d4a3156859fc1c54bd24851a046
+  SwiftLocation: 609ac8859f2c5d48a6cadd2a58c63b1dae02dc25
+  TextAttributes: 89905fb52c36de587010f335bd4071463d9c6d9b
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+  YPImagePicker: accf310f9526641a84372c0ecf943547d9b1e52c
+
+PODFILE CHECKSUM: 20925ecd04d33e6238629efce8c43cd0fdf2d343
+
+COCOAPODS: 1.9.3
